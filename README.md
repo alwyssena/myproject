@@ -86,3 +86,25 @@ Transactions Bar Char (Use your created API to fetch the data)
 - Chart should display the price range and the number of items in that range for
 the selected month irrespective of the year using API
 - Month selected from dropdown (above the table) should be applied here
+
+
+
+
+
+
+
+Backend 
+node index.js
+
+frontend
+ npm install
+
+
+
+
+
+
+
+
+
+
